@@ -1,0 +1,41 @@
+question_a,question_b,is_duplicate
+What is deadlock in OS?,Explain deadlock in operating systems,1
+What is a deadlock?,Can someone explain how deadlocks happen in an OS?,1
+Difference between process and thread?,How is a thread different from a process?,1
+What is the difference between a process and a thread,Process vs thread: what is the difference?,1
+What is normalization in DBMS?,Explain database normalization,1
+Why do we normalize tables in a database?,What is normalization and why is it needed?,1
+What is the time complexity of quicksort?,Quicksort worst case and average case complexity?,1
+How does quicksort work and what is its complexity?,Explain quick sort time complexity,1
+What is a primary key?,Define primary key in DBMS,1
+Explain primary key and its use,What does a primary key do in a table?,1
+What is paging in operating systems?,Explain paging and page tables in OS,1
+How does paging work in memory management?,What is paging in OS?,1
+What is a binary search tree?,Explain BST and its properties,1
+How do BSTs work?,What is a binary search tree and how do we insert in it?,1
+What is ACID in databases?,Explain ACID properties of transactions,1
+What are ACID properties?,Why are ACID properties important in DBMS?,1
+What is virtual memory?,Explain virtual memory in OS,1
+How does virtual memory work?,What is the use of virtual memory?,1
+What is a semaphore?,Explain semaphores in process synchronization,1
+How do semaphores work in OS?,What is a semaphore and how is it used?,1
+What is deadlock in OS?,What is a semaphore?,0
+What is normalization in DBMS?,What is a primary key?,0
+Difference between process and thread?,What is paging in operating systems?,0
+What is the time complexity of quicksort?,What is a binary search tree?,0
+What is virtual memory?,What are ACID properties?,0
+Explain deadlock in operating systems,Explain database normalization,0
+What is a primary key?,What is the time complexity of quicksort?,0
+How does paging work in memory management?,What is normalization in DBMS?,0
+Process vs thread: what is the difference?,What is a deadlock?,0
+What is a semaphore?,What is virtual memory?,0
+What is a foreign key?,What is a primary key?,0
+What is merge sort?,What is the time complexity of quicksort?,0
+What is a stack?,What is a queue?,0
+Explain BFS,Explain DFS,0
+What is a clustered index?,What is a primary key?,0
+What is mutual exclusion?,What is deadlock in OS?,0
+What is a join in SQL?,What is a foreign key?,0
+What is thrashing in OS?,What is virtual memory?,0
+What is TCP?,What is UDP?,0
+What is a hash table?,What is a binary search tree?,0

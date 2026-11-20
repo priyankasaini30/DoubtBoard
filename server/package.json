@@ -1,0 +1,28 @@
+{
+  "name": "doubtboard-server",
+  "version": "1.0.0",
+  "description": "DoubtBoard backend: live Q&A rooms with duplicate-question suggestions",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "eval": "node eval/evaluate.js eval/pairs.csv",
+    "loadtest": "node scripts/loadtest.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "doubtboard": "file:..",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "mongoose": "^8.5.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.7.5"
+  }
+}

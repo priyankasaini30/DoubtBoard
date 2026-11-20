@@ -1,0 +1,101 @@
+﻿question_a,question_b,is_duplicate
+What is an Operating System and what are its main functions?,Define an OS and explain the major responsibilities it performs.,1
+What is a primary key and a foreign key?,What is a page fault?,0
+"Explain Big O, Omega and Theta notations.",What is the difference between linear and non-linear data structures?,0
+What is the difference between a process and a thread?,How does a process differ from a thread in an operating system?,1
+What is a semaphore and what are its types?,What is a data structure and what are its types?,0
+What is context switching?,Explain how the CPU switches from one process to another.,1
+What is CPU scheduling?,"Why is CPU scheduling required, and how does it work?",1
+What is the difference between linear search and binary search?,What is the difference between preemptive and non-preemptive scheduling?,0
+What is a deadlock?,Explain the situation in which processes wait indefinitely for resources.,1
+What is context switching?,What is time complexity and space complexity?,0
+What is the difference between mutex and semaphore?,How do mutex locks and semaphores differ in process synchronization?,1
+What is virtual memory?,How does an operating system use virtual memory?,1
+What is paging and segmentation?,Explain the two memory management techniques: paging and segmentation,1
+What is the difference between a process and a thread?,What is the difference between stored procedures and triggers?,0
+What is DBMS and why is it used?,Define a Database Management System and discuss its purpose.,1
+What is a data structure and what are its types?,What is a Process Control Block (PCB)?,0
+What is the difference between DBMS and RDBMS?,How is a relational database management system different from a traditional DBMS?,1
+What is dynamic programming and how is it different from recursion?,What is a page fault?,0
+What is a database transaction?,What is the difference between merge sort and quick sort?,0
+What is the difference between DBMS and RDBMS?,What is the difference between deadlock and starvation?,0
+What is a primary key and a foreign key?,Explain the purpose of primary and foreign keys in relational databases.,1
+What is normalization and why is it required?,"Why do we normalize database tables, and what is normalization?",1
+What are candidate keys and super keys?,What is hashing and what is a hash collision?,0
+"Explain 1NF, 2NF, 3NF and BCNF.",Describe the different normal forms used in database normalization.,1
+What is a data structure and what are its types?,What is a queue and what are its types?,0
+"What is the difference between DELETE, DROP and TRUNCATE?",Compare the three SQL commands used to remove data or database objects,1
+What is the difference between WHERE and HAVING?,How are WHERE and HAVING clauses used differently in SQL queries?,1
+What is the difference between SQL and NoSQL?,What is the difference between DBMS and RDBMS?,0
+What is the difference between stored procedures and triggers?,What is the difference between primary key and unique key?,0
+What is the difference between a process and a thread?,What is the difference between a process and a program?,1
+What is the difference between deadlock and starvation?,What is a primary key and a foreign key?,0
+What is the difference between an array and a linked list?,What is recursion and how does it work?,0
+What is the difference between BFS and DFS?,What is the difference between a process and a thread?,0
+What are SQL joins and their types?,Explain the different types of joins available in SQL.,1
+What is a data structure and what are its types?,Define data structures and classify their major categories.,1
+What is the difference between stack and queue?,What is the difference between WHERE and HAVING?,0
+What is the difference between a process and a program?,What is the difference between BFS and DFS?,0
+What is an index in DBMS and why is it used?,How do database indexes improve query performance?,1
+What is the difference between linear and non-linear data structures?,What is the difference between mutex and semaphore?,0
+What are ACID properties?,Explain the four properties that ensure reliable database transactions.,1
+What is the difference between DBMS and RDBMS?,What is the difference between a process and a program?,0
+What is the difference between linear and non-linear data structures?,Compare linear data structures with non-linear data structures.,1
+What is the difference between an array and a linked list?,How does memory organization differ between arrays and linked lists?,1
+What is the difference between an array and a linked list?,What is the difference between stack and queue?,0
+What is the difference between internal and external fragmentation?,What is the difference between SQL and NoSQL?,0
+What is DBMS and why is it used?,What is an index in DBMS and why is it used?,0
+What is the difference between SQL and NoSQL?,What is the difference between singly and doubly linked lists?,0
+What is the difference between INNER JOIN and LEFT JOIN?,"Explain Big O, Omega and Theta notations.",0
+What is the difference between an array and a linked list?,What is the difference between singly and doubly linked lists?,0
+What is the difference between merge sort and quick sort?,What is the difference between stack and queue?,0
+What is the difference between SQL and NoSQL?,What is dynamic programming and how is it different from recursion?,0
+What is the difference between mutex and semaphore?,What is the difference between DBMS and RDBMS?,0
+What are SQL joins and their types?,What is the difference between deadlock and starvation?,0
+What is a binary tree?,What is a database transaction?,0
+What is the difference between BFS and DFS?,What is the difference between primary key and unique key?,0
+What is a Process Control Block (PCB)?,What is the difference between clustered and non-clustered indexes?,0
+What is paging and segmentation?,What is the difference between linear search and binary search?,0
+What is the difference between DBMS and RDBMS?,What is the difference between a process and a thread?,0
+What is the difference between BFS and DFS?,What is the difference between WHERE and HAVING?,0
+What is the difference between preemptive and non-preemptive scheduling?,What is the difference between mutex and semaphore?,0
+What is the difference between SQL and NoSQL?,What is the difference between mutex and semaphore?,0
+What is the difference between linear and non-linear data structures?,What is an index in DBMS and why is it used?,0
+What is the difference between UNION and UNION ALL?,What is the difference between merge sort and quick sort?,0
+What is the difference between linear search and binary search?,What is the difference between singly and doubly linked lists?,0
+What is the difference between a process and a thread?,What is the difference between UNION and UNION ALL?,0
+What is dynamic programming and how is it different from recursion?,Explain dynamic programming and how it optimizes recursive solutions.,1
+What is the difference between stored procedures and triggers?,What is the difference between internal and external fragmentation?,0
+What is the difference between primary key and unique key?,What are candidate keys and super keys?,0
+What is the difference between primary key and unique key?,What is the difference between deadlock and starvation?,0
+What is the difference between deadlock and starvation?,What is the difference between clustered and non-clustered indexes?,0
+What is hashing and what is a hash collision?,Explain hashing and describe what happens when two keys generate the same hash value.,1
+What is the difference between WHERE and HAVING?,What is the difference between UNION and UNION ALL?,0
+What is the difference between singly and doubly linked lists?,What is the difference between stored procedures and triggers?,0
+What is the difference between a process and a program?,What is a queue and what are its types?,0
+What is the difference between DBMS and RDBMS?,What is the difference between BFS and DFS?,0
+What is the difference between SQL and NoSQL?,What is the difference between a process and a program?,0
+What is the difference between INNER JOIN and LEFT JOIN?,What is the difference between singly and doubly linked lists?,0
+What is the difference between BFS and DFS?,What is the difference between mutex and semaphore?,0
+What is the difference between linear and non-linear data structures?,Compare the working and time complexity of linear and binary searching techniques.,1
+What is a Binary Search Tree (BST)?,Explain the structure and properties of a binary search tree.,1
+What is the difference between linear search and binary search?,What is a linked list and what are its types?,0
+What is the difference between clustered and non-clustered indexes?,What is the difference between SQL and NoSQL?,0
+What is a linked list and what are its types?,What is a semaphore and what are its types?,0
+What is the difference between BFS and DFS?,What is the difference between SQL and NoSQL?,0
+What is the difference between SQL and NoSQL?,What is the difference between WHERE and HAVING?,0
+What is the difference between linear search and binary search?,What is the difference between DBMS and RDBMS?,0
+What is the difference between BFS and DFS?,What is paging and segmentation?,0
+What is the difference between stack and queue?,What is the difference between BFS and DFS?,0
+What is the difference between DBMS and RDBMS?,What is the difference between singly and doubly linked lists?,0
+What is the difference between a process and a thread?,What is the difference between INNER JOIN and LEFT JOIN?,0
+What is a queue and what are its types?,What is a semaphore and what are its types?,0
+What is the difference between stack and queue?,What is the difference between SQL and NoSQL?,0
+What is the difference between UNION and UNION ALL?,What is the difference between a process and a program?,0
+What is recursion and how does it work?,What is the difference between preemptive and non-preemptive scheduling?,0
+What is the difference between linear search and binary search?,What is the difference between merge sort and quick sort?,0
+What is the difference between UNION and UNION ALL?,"What is the difference between DELETE, DROP and TRUNCATE?",0
+What is the difference between BFS and DFS?,What is the difference between linear search and binary search?,0
+What is the difference between UNION and UNION ALL?,What is the difference between BFS and DFS?,0
+"Explain 1NF, 2NF, 3NF and BCNF.",What is dynamic programming and how is it different from recursion?,0
+What is the difference between stack and queue?,What is the difference between deadlock and starvation?,0

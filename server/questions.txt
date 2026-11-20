@@ -1,0 +1,118 @@
+﻿What is an Operating System and what are its main functions?
+
+What is the difference between a process and a program?
+
+What is the difference between a process and a thread?
+
+What are the different states of a process?
+
+What is a Process Control Block (PCB)?
+
+What is context switching?
+
+What is CPU scheduling?
+
+Explain FCFS, SJF, Round Robin and Priority Scheduling.
+
+What is the difference between preemptive and non-preemptive scheduling?
+
+What is a deadlock?
+
+What are the four necessary conditions for deadlock?
+
+What is the difference between deadlock and starvation?
+
+What is a semaphore and what are its types?
+
+What is a critical section problem?
+
+What is the difference between mutex and semaphore?
+
+What is virtual memory?
+
+What is paging and segmentation?
+
+What is the difference between internal and external fragmentation?
+
+What is a page fault?
+
+
+What is DBMS and why is it used?
+
+What is the difference between DBMS and RDBMS?
+
+What is a primary key and a foreign key?
+
+What is the difference between primary key and unique key?
+
+What are candidate keys and super keys?
+
+What is normalization and why is it required?
+
+Explain 1NF, 2NF, 3NF and BCNF.
+
+What is denormalization?
+
+What is the difference between DELETE, DROP and TRUNCATE?
+
+What is the difference between WHERE and HAVING?
+
+What is the difference between UNION and UNION ALL?
+
+What are SQL joins and their types?
+
+What is the difference between INNER JOIN and LEFT JOIN?
+
+What is a subquery?
+
+What is an index in DBMS and why is it used?
+
+What is the difference between clustered and non-clustered indexes?
+
+What are ACID properties?
+
+What is a database transaction?
+
+What is the difference between SQL and NoSQL?
+
+What is the difference between stored procedures and triggers?
+
+What is a data structure and what are its types?
+
+What is the difference between linear and non-linear data structures?
+
+What is an array and what are its advantages and disadvantages?
+
+What is the difference between an array and a linked list?
+
+What is a stack and what are its applications?
+
+What is a queue and what are its types?
+
+What is the difference between stack and queue?
+
+What is a linked list and what are its types?
+
+What is the difference between singly and doubly linked lists?
+
+What is a binary tree?
+
+What is a Binary Search Tree (BST)?
+
+What are tree traversal techniques?
+
+What is the difference between BFS and DFS?
+
+What is hashing and what is a hash collision?
+
+What is the difference between linear search and binary search?
+
+What is time complexity and space complexity?
+
+Explain Big O, Omega and Theta notations.
+
+What is the difference between merge sort and quick sort?
+
+What is recursion and how does it work?
+
+What is dynamic programming and how is it different from recursion?
